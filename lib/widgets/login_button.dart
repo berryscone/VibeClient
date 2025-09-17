@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vibe_client/services/login.dart';
+import 'package:vibe_client/services/google_auth_service.dart';
 
 enum LoginType {
   google("Login with Google"),
